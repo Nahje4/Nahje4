@@ -1,7 +1,7 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=180&section=header&text=Milo&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Milo%20Delbos%20%E2%80%A2%20Low-Level%20Systems%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=180&section=header&text=Milo%20Delbos%20&fontSize=70&fontColor=ffffff&fontAlignY=35s&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=2500&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Milo+%F0%9F%91%8B" alt="Hi there, I'm Milo" />
